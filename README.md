@@ -1,7 +1,7 @@
 ## Olá me chamo Alessandro Alberton 👋
 
 - 🔭 Hoje trabalho com Python.
-- 🌱 EStudando atualmente Banco de dados.
+- 🌱 Atualmente em desenvolvimento no mundo da programação>
 
 - ##
 
